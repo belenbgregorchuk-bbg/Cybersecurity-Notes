@@ -1,6 +1,6 @@
 # Cybersecurity Notes
 
-Welcome to my cybersecurity learning journey!
+Welcome! This repository documents my learning journey in cybersecurity and networking.
 
 This repository contains my notes, practical exercises, labs, and resources as I continue developing my skills in cybersecurity and networking.
 
@@ -17,4 +17,6 @@ This repository contains my notes, practical exercises, labs, and resources as I
 
 ## Goal
 
-To document my learning process and build a practical portfolio while developing my cybersecurity career.
+To document my learning journey, organize my notes, and build a practical cybersecurity portfolio through continuous learning.
+
+# 🔐 Cybersecurity Notes
